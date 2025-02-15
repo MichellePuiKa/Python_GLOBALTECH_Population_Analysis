@@ -3,11 +3,10 @@
 ## **1. Background and Overview**
 As a Data Analyst applicant at GLOBALECH, a company renowned for its data analysis for government bodies.  This analysis used Python to analyse the population dataset from various contries and provide insights and suggested how GLOBALTECH might use them to inform decisions.
 
+
 ## **2. Data Source & Structure**
 ### **Data Source**
 The data set provided in named population.csv.  It contains population data for various contries across multiple years, alongside metadata such as region and contry identifiers.
-
-### **Data Structure**
 
 
 ## **3. Executive Summary**
